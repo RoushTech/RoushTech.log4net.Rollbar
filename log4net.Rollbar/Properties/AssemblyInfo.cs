@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("log4net.Rollbar")]
+[assembly: AssemblyTitle("RoushTech.log4net.Rollbar")]
 [assembly: AssemblyDescription("RollbarSharp log4net appender.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Morten Teinum")]
-[assembly: AssemblyProduct("log4net.Rollbar")]
-[assembly: AssemblyCopyright("Copyright ©  2014 Morten Teinum")]
+[assembly: AssemblyCompany("RoushTech.net")]
+[assembly: AssemblyProduct("RoushTech.log4net.Rollbar")]
+[assembly: AssemblyCopyright("Copyright © 2014 Morten Teinum")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -35,4 +35,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("1.0.0")]
 [assembly: AssemblyFileVersion("1.0.0")]
 
-[assembly: AssemblyInformationalVersion("1.0.5.0")]
+[assembly: AssemblyInformationalVersion("1.0.6.0")]
